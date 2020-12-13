@@ -3,7 +3,7 @@
 }
 
 .navbar-nav .nav-link:hover {
-    color: rgba(0,0,0,.5) !important;
+    color: green !important;
 }
 
 body {
@@ -22,3 +22,4 @@ body {
         font-size: 5rem;
     }
 }
+
